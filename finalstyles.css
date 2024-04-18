@@ -1,0 +1,45 @@
+body{
+    background-color: darkgray;
+h1{
+    background-color: grey;
+    color: black; /*text color*/
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bolder;
+    border: 2px solid black;
+    padding: 3px;
+}
+a{
+    color:blue;
+    text-align: center;
+    font-size: xx-large;
+}
+a:visited{
+    color: white;
+    text-align: center;
+    font-size: larger;
+}
+h2{
+    color: black; /*text color*/
+    background-color: darkcyan;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    text-align: left; 
+    border: 2px solid black;
+    padding: 3px;
+}
+}
+img{
+    border: 2px solid black;
+    padding: 3px;
+    margin: 5px;
+    /*following 2 lines center stuff*/
+    display: block; 
+    margin: auto; 
+}
+iframe{
+    display: block; 
+    margin: auto;
+    border: 2px solid black;
+    padding: 3px;
+}
